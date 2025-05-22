@@ -62,10 +62,10 @@ Fico feliz em receber sugestões e melhorias! 🚀
 
 ## 📧 Contato  
 Caso tenha dúvidas ou queira contribuir, entre em contato:  
-✉ Email: ** gisellemnovaes@hotmail.com ** 
-[![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/gisele-novaes-psantos/)
-
-
+✉ Email: ** gisellemnovaes@hotmail.com *
+<a href="https://www.linkedin.com/in/gisele-novaes-psantos/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30">
+</a>
 
 
 
